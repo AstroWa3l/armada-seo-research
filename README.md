@@ -1,4 +1,4 @@
-![alt](https://github.com/armada-alliance/assets/blob/main/banner-armada%20copy.png?raw=true)
+![alt](https://github.com/armada-alliance/assets/blob/gh-pages/banner-armada.png?raw=true)
 
 # Armada Alliance SEO Research Project
 
